@@ -1,0 +1,24 @@
+QS/
+├── Budget
+│   ├── Budget_Reports
+│   │   ├── 2018-01
+│   │   ├── 2018-02
+│   │   └── 2018-03
+│   ├── Construction_Budget.xls
+│   └── Cost_Reports
+├── Civils
+├── Payments
+│   ├── 01-Subcontract
+│   │   └── 20180105_PS01.pdf
+│   ├── 02-Subcontract
+│   │   └── 20180105_PS01.pdf
+│   └── Payment_Schedule_Template.xls
+├── Purchase_Orders
+├── Quotes
+├── Subcontracts
+├── Tenders
+│   └── Tender_Evaluation.xls
+└── Variations
+    └── Variation_Register.xls
+
+12 directories, 9 files
